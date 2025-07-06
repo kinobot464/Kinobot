@@ -10,7 +10,7 @@ CHANNELS = ['https://t.me/kinolar_olami12346', 'https://t.me/AFSUNGAR_MERLIN_SER
 # 👇 Kinolar kodi bazasi
 MOVIES = {
     "1": "🎬 Kino: X odamlar\📥 https://t.me/KINOLARtv07/1319",
-    "2": "🎬 Kino: interstellar\📥 https://t.me/KINOLARtv07/1397"
+    "70": "🎬 Kino: interstellar\📥 https://t.me/KINOLARtv07/1397"
 }
 
 # 👇 Obuna tekshiruvchi funksiya
