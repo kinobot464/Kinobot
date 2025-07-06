@@ -1,7 +1,5 @@
 import telebot
-from telebot import types
-
-TOKEN = '7755025869:AAFDCesSjxHP7LJxufOyJ1mzqwU4qaUNyBU'  # ← bu yerga o'zingizning tokeningizni qo'ying
+from telebot import yBU'  # ← bu yerga o'zingizning tokeningizni qo'ying
 bot = telebot.TeleBot(TOKEN)
 
 # 👇 Majburiy obuna kanallar
